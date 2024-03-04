@@ -1,0 +1,10 @@
+{
+    "name": "React Native Android",
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    // Optional - add tools/extensions:
+    "extensions": [
+        "ms-vscode-remote.remote-containers"  // Important for working with containers
+    ]
+}
